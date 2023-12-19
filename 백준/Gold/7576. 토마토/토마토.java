@@ -57,7 +57,6 @@ public class Main {
 		}
 		System.out.println(ans);
 	}
-	
 	static class Tomato{
 		int i, j, day;
 		Tomato(int i, int j, int day){
